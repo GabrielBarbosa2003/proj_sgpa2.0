@@ -1,0 +1,21 @@
+.form input{
+    width: 100%;
+    height: 50px;
+    border: 1px solid #1BBD36;
+    border-radius: 5px;
+    
+}
+.input-text{
+    padding: 10px;
+}
+.submit {
+    background-color: #1BBD36;
+    color: white;
+    font: normal 25pt Arial;
+}
+.margin{
+    margin-left: 150em;
+}
+.test-font{
+    font-size: 70%;
+}
